@@ -27,7 +27,7 @@
 ![全球体育资讯吃瓜圈](channel_logos/qqzxcgq.jpg)|[@qqzxcgq](https://t.me/qqzxcgq)|—欢迎来到全球体育资讯吃瓜圈—
 ![叮当猫官方社区](channel_logos/DingDangCats_1.jpg)|[@DingDangCats_1](https://t.me/DingDangCats_1)|🤖 机器人☞ @DingDangCats_Bot☜
 ![海华俱乐部 ❖ATM娱乐冠名🅥](channel_logos/svipcctv.jpg)|[@svipcctv](https://t.me/svipcctv)|欢迎加入海华俱乐部⭐️🌟✨
-![同心资源❤️出海引流❤️海外资源❤️资源交流群](channel_logos/junzhangziyuan.jpg)|[@junzhangziyuan](https://t.me/junzhangziyuan)|✅同心资源群 - @junzhangziyuan 
+![同心资源❤️出海引流❤️海外资源❤️资源交流群](channel_logos/junzhangziyuan.jpg)|[@junzhangziyuan](https://t.me/junzhangziyuan)|✅同心资源群 - @junzhangziyuan
 ![华人娱乐群](channel_logos/KLG348.jpg)|[@KLG348](https://t.me/KLG348)|海外华人游戏/聊天/交友
 ![TG华人总部ღHRZB6666](channel_logos/HRZB6666.jpg)|[@HRZB6666](https://t.me/HRZB6666)|欢迎加入TG华人总部ღ @HRZB6666
 ![广州少妇宫](channel_logos/KKBclub.jpg)|[@KKBclub](https://t.me/KKBclub)|同城交流群，禁广告，谢绝中介
@@ -36,20 +36,19 @@
 ![灰产社区│狗推大队│海外黑产USDT交流群](channel_logos/huichan.jpg)|[@huichan](https://t.me/huichan)|🇨🇳海外灰产社区-狗推大队
 ![梅赛德斯-出海资源交流大群](channel_logos/benchi00002.jpg)|[@benchi00002](https://t.me/benchi00002)|🚫禁止谈论与发布涉及中国的任何言论（含台港澳）发现一律拉黑🚫
 ![舵手联盟出海](channel_logos/dslm888.jpg)|[@dslm888](https://t.me/dslm888)|舵手联盟：一个专注海外资源对接的社群
-![同心支付🎁出海资源🎁海外项目🎁支付交流群](channel_logos/junzhang01.jpg)|[@junzhang01](https://t.me/junzhang01)|✅同心资源群 - @junzhangziyuan 
+![同心支付🎁出海资源🎁海外项目🎁支付交流群](channel_logos/junzhang01.jpg)|[@junzhang01](https://t.me/junzhang01)|✅同心资源群 - @junzhangziyuan
 ![绿帽少妇丝袜黑丝](channel_logos/jyzbj.jpg)|[@jyzbj](https://t.me/jyzbj)|绿帽，少妇，丝袜，黑丝，AV|60770
 ![Moongate Community](channel_logos/moongate_community.jpg)|[@moongate_community](https://t.me/moongate_community)|无描述|60751
-![二十万人TG第一搜群](channel_logos/tgsouso.jpg)|[@tgsouso](https://t.me/tgsouso)|.|60176
 ![ChatGPT 中文社区](channel_logos/chatgpt_jwgpt3_cn.jpg)|[@chatgpt_jwgpt3_cn](https://t.me/chatgpt_jwgpt3_cn)|中文组群，尝试 ChatGPT 的厉害！
 ![币道 🐉💵SOL/ETH/BSC🇨🇳 Owner：@dog_god777](channel_logos/bidaobi.jpg)|[@bidaobi](https://t.me/bidaobi)|Money Path
-![Dragon - Official Group](channel_logos/DragonBotGC.jpg)|[@DragonBotGC](https://t.me/DragonBotGC)|Official @DragonDotBot Telegram Group 🐉 
+![Dragon - Official Group](channel_logos/DragonBotGC.jpg)|[@DragonBotGC](https://t.me/DragonBotGC)|Official @DragonDotBot Telegram Group 🐉
 ![Huidu.io灰度出海遊戲項目交流社區【No.com冠名】](channel_logos/huidu_shequ.jpg)|[@huidu_shequ](https://t.me/huidu_shequ)|#官方通知 #付费广告 #供应 #需求 #灰度资讯
 ![9527社区sol eth bsc](channel_logos/JCJ9527.jpg)|[@JCJ9527](https://t.me/JCJ9527)|@JCJ95279999 @JCJ95277777
-![维度社区丨Dimension space(TON&ETH&SoL&base CHAIN)](channel_logos/Weidushequchina.jpg)|[@Weidushequchina](https://t.me/Weidushequchina)|Owne & Promo : @Luckgo_d188 
+![维度社区丨Dimension space(TON&ETH&SoL&base CHAIN)](channel_logos/Weidushequchina.jpg)|[@Weidushequchina](https://t.me/Weidushequchina)|Owne & Promo : @Luckgo_d188
 ![老王用户群](channel_logos/wangvpn_users.jpg)|[@wangvpn_users](https://t.me/wangvpn_users)|★此群供所有「老王VPN」用户给老王提供建议或回报错误，以确保使用上的顺利！
 ![全球博彩之家](channel_logos/nt888.jpg)|[@nt888](https://t.me/nt888)|—欢迎来到全球博彩之家—
 ![PikPak 官方交流群](channel_logos/pikpak_userservice.jpg)|[@pikpak_userservice](https://t.me/pikpak_userservice)|PikPak 各平台客户端汇总：
-![同心担保🍀供需资源🍀出海项目🍀供需交流群](channel_logos/junzhang987.jpg)|[@junzhang987](https://t.me/junzhang987)|✅同心资源群 - @junzhangziyuan 
+![同心担保🍀供需资源🍀出海项目🍀供需交流群](channel_logos/junzhang987.jpg)|[@junzhang987](https://t.me/junzhang987)|✅同心资源群 - @junzhangziyuan
 ![WEEX 唯客官方中文交流群](channel_logos/weex_group.jpg)|[@weex_group](https://t.me/weex_group)|欢迎来到WEEX 唯客官方中文交流群！WEEX唯客交易所（WEEX INTERNATIONAL EXCHANGE LTD），是由新加坡顶级区块链投资机构；我们的使命是激励世界拥抱加密货币
 ![Bitpie-比特派中文支付担保群](channel_logos/Bitpie007.jpg)|[@Bitpie007](https://t.me/Bitpie007)|欢迎加入比特派官方中文交流群！
 ![快连VPN-翻墙加速器-VPN快连-电脑VPN](channel_logos/Ietsvpn11.jpg)|[@Ietsvpn11](https://t.me/Ietsvpn11)|❏ 本群为 LetsVPN 官方用户交流群
@@ -70,4 +69,3 @@
 ![香烟交流群【91香烟】](channel_logos/zhenwei011.jpg)|[@zhenwei011](https://t.me/zhenwei011)|香烟，走私香烟，免税香烟，越代，厂家
 ![海外超级AI](channel_logos/chatgptopenai.jpg)|[@chatgptopenai](https://t.me/chatgptopenai)|🈲辱华🈲广告🈲刷屏 🈲色情🈲干架
 ![欧易OKX官方中文群](channel_logos/OKXGroup_CN.jpg)|[@OKXGroup_CN](https://t.me/OKXGroup_CN)|OKX公告频道：https://t.me/OKXAnnouncements_CN
- 
