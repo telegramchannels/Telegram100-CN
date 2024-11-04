@@ -7,7 +7,7 @@
 ![极搜机器人](channel_logos/jisou.jpg)|[@jisou](https://t.me/jisou2bot?start=a_6294881820)|❗️❗️❗️严禁在中国大陆使用，一切违法后果请自行承担❗️❗️❗️|
 ![AISO](channel_logos/aiso.jpg)|[@aiso](https://t.me/aiso?start=telegram_6294881820)|查找群组、频道、影视、音乐或机器人|
 ![成人导航❤️18+❤️NSFW❤️AV❤️Pron](channel_logos/se200000.jpg)|[@se200000](https://t.me/se200000)|❗️❗️❗️严禁在中国大陆使用，一切违法后果请自行承担❗️❗️❗️|4474
-![搜片神器❣️中文超级搜索](channel_logos/soupianccav.jpg)|[@soupianccav](https://t.me/soupianccav)|发送关键字，即可搜索一切你想要看的影片|1789
+![搜片神器❣️中文超级搜索](channel_logos/soupianccav.jpg)|[@soupianshenqibar](https://t.me/soupianshenqibar)|发送关键字，即可搜索一切你想要看的影片|1789
 ![TG全能搜群/搜片大群/中文搜索/导航群](channel_logos/qnssking.jpg)|[@qnssking](https://t.me/qnssking)|本群机器人🤖能搜索到一切你想要搜索的东西! 不信你试试？|1756
 ![中文搜索/私密搜索/SOSO机器人-⚡️20万人群🔍](channel_logos/sousou20w.jpg)|[@sousou20w](https://t.me/sousou20w)|⚡️电报群组⚡️资源⚡️私密⚡️关键词搜索🔍|1519
 ![成人导航❤️色色搜索❤️18+❤️NSFW❤️AV❤️Pron](channel_logos/sesouccav.jpg)|[@sesouccav](https://t.me/sesouccav)|发送视频关键字，自动回复资源地址|1397
