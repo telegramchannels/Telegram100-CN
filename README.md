@@ -1,16 +1,17 @@
 | 头像 | 频道号 | 频道简介 | 成员数 |
 |------|--------|----------|--------|
-![soso搜索机器人](channel_logos/soso.jpg)|[@soso](https://t.me/sosoo?start=a_6294881820)|提供关键词相关群组的机器人|
-![jiso搜索机器人](channel_logos/jiso.jpg)|[@jiso](https://t.me/jiso?start=a_6294881820)|找到有趣的群、频道、视频、音乐、电影、新闻|
-![华夏机器人](channel_logos/huaxia.jpg)|[@huaxia123_bot](https://t.me/huaxia123_bot?start=pRtPVwfpWEBFGb0hVYqZDphA3pWYZSNP)|找到您感兴趣的群组、频道和机器人️|
-![i快搜机器人](channel_logos/ikuaiso.jpg)|[@ikuaisobot](https://t.me/ikuaisobot?start=6294881820)|帮你找到有趣的群、频道、视频、音乐、电影、新闻|
-![极搜机器人](channel_logos/jisou.jpg)|[@jisou](https://t.me/jisou2bot?start=a_6294881820)|❗️❗️❗️严禁在中国大陆使用，一切违法后果请自行承担❗️❗️❗️|
-![AISO](channel_logos/aiso.jpg)|[@aiso](https://t.me/aiso?start=telegram_6294881820)|查找群组、频道、影视、音乐或机器人|
-![成人导航❤️18+❤️NSFW❤️AV❤️Pron](channel_logos/se200000.jpg)|[@se200000](https://t.me/se200000)|❗️❗️❗️严禁在中国大陆使用，一切违法后果请自行承担❗️❗️❗️|4474
+| **SOSO机器人** | [@soso](https://t.me/soso?start=a_6294881820) | 先改成中文用户名再搜索群组/频道/视频 |
+| **海搜** | [@haisou](https://t.me/haisou?start=a_7202424896) | 发送关键词，即可发现频道、群组、视频、音乐、图片、文件 |
+| **JISO机器人** | [@jiso](https://t.me/jiso?start=a_6294881820) | 搜索群、频道、影视、音乐、新闻等内容 |
+| **极搜JiSou** | [@jisou](https://t.me/jisou2?start=a_7202424896) | 搜索群、频道、影视、音乐、新闻等内容 |
+| **神马搜索** | [@smss](https://t.me/smss?start=spread_7202424896) | 帮你发现有趣群组、频道、视频、音乐、电影、新闻 |
+| **超级索引** | [@CJSY](https://t.me/CJSY?start=7202424896) | 发送词语即可搜索关联群组与频道资源 |
+| **快搜** | [@kuai](https://t.me/kuai?start=a_3B44YPB) | 帮你发现有趣群组、频道、视频、音乐、电影、新闻 |
+![TG搜索群](channel_logos/se200000.jpg)|[@se200000](https://t.me/se200000)|发送关键字，即可搜索一切你想要看的影片|4474
 ![搜片神器❣️中文超级搜索](channel_logos/soupianccav.jpg)|[@soupianshenqibar](https://t.me/soupianshenqibar)|发送关键字，即可搜索一切你想要看的影片|1789
 ![TG全能搜群/搜片大群/中文搜索/导航群](channel_logos/qnssking.jpg)|[@qnssking](https://t.me/qnssking)|本群机器人🤖能搜索到一切你想要搜索的东西! 不信你试试？|1756
 ![中文搜索/私密搜索/SOSO机器人-⚡️20万人群🔍](channel_logos/sousou20w.jpg)|[@sousou20w](https://t.me/sousou20w)|⚡️电报群组⚡️资源⚡️私密⚡️关键词搜索🔍|1519
-![成人导航❤️色色搜索❤️18+❤️NSFW❤️AV❤️Pron](channel_logos/sesouccav.jpg)|[@sesouccav](https://t.me/sesouccav)|发送视频关键字，自动回复资源地址|1397
+![电报搜索群](channel_logos/sesouccav.jpg)|[@sesouccav](https://t.me/sesouccav)|发送视频关键字，自动回复资源地址|1397
 ![中文搜索/群组导航/全能搜索](channel_logos/jisou20w.jpg)|[@jisou20w](https://t.me/jisou20w)|聊天窗口输入『关键字』即可搜索到电报各种有趣好玩的东西|1136
 ![Telegram 中文社群 🅥](channel_logos/tgcnx.jpg)|[@tgcnx](https://t.me/tgcnx)|Telegram 中文/汉化/知识/教程, 科技, 机场, 科学上网......
 ![项目灰产交流社区](channel_logos/XM602.jpg)|[@XM602](https://t.me/XM602)|📣南洋项目交流社区：
